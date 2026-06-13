@@ -1,3 +1,16 @@
+---
+title: Ai Digit Recognizer
+emoji: 📊
+colorFrom: red
+colorTo: purple
+sdk: gradio
+sdk_version: 4.44.1
+python_version: '3.9'
+app_file: app.py
+pinned: false
+short_description: A interactive Deep Learning visualization for numbers
+---
+
 # 🧠 Deep Learning Digit Recognizer (MNIST & Real-world Photo Classifier)
 
 A complete, end-to-end Machine Learning project written in Python using **TensorFlow/Keras**, **OpenCV**, and **Gradio** to recognize handwritten digits (0-9) from canvas drawings or custom uploaded photos. 
